@@ -24,7 +24,7 @@ STEP:7 compare the output with truth table.
 # Circuit Diagram
 ![image](https://github.com/RESMIRNAIR/FULL_ADDER/assets/154305926/418e00aa-ed19-4ab3-a413-bae9575bff0e)
 ![image](https://github.com/RESMIRNAIR/FULL_ADDER/assets/154305926/0c26fe47-d78c-43dd-ac0d-804e427a3bbc)
-Program:
+# Program:
 module FA(a,b,cin,sum,cout);
 input a,b,cin;
 output sum,cout;
